@@ -1,14 +1,27 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SaadOsama_203/SaadOsama_203/main/Saad.png" alt="Saad Osama Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Saad%20Osama&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=58A6FF&desc=Full-Stack%20Developer%20|%20AI%20Automation%20Architect&descAlignY=55&descAlign=60" width="100%"/>
 </div>
-
-<br/>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Systems+Engineer;Automation+Architect;Builder+%40+AgenticsHub)](https://git.io/typing-svg)
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello%2C+World!%22);Architecting+AI-Driven+Systems...;Vibe+Coding+at+Maximum+Velocity...;Deploying+Full-Stack+Platforms..." alt="Typing SVG" />
+  </a>
 </div>
+
+---
+
+### 🟢 `SYSTEM_STATUS: ONLINE`
+
+```yaml
+# User Profile
+Name:        Saad Osama
+Age:         22
+Education:   Computer Science @ Cairo University
+Location:    Giza, Egypt
+Role:        Full-Stack Developer & AI Automation Architect
+Philosophy:  "Minimalist industrial aesthetics. Dark OLED vibes. High-velocity deployments."
+Contact:     saadosama.256256@gmail.com
+```
 
 ---
 
@@ -77,8 +90,8 @@ const saad = {
 **AI & Automation**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![LangChain](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -87,12 +100,12 @@ const saad = {
 ## `> cat stats.sh`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaadOsama_203&show_icons=true&theme=github_dark&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadOsama_203&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saadosama256256&show_icons=true&theme=github_dark&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadosama256256&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="150"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SaadOsama_203&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="130"/>
+  <img src="https://streak-stats.demolab.com?user=saadosama256256&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="130"/>
 </div>
 
 ---
@@ -110,9 +123,9 @@ const saad = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaadOsama_203&color=58a6ff&style=flat-square&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=saadosama256256&color=58a6ff&style=flat-square&label=Profile+Views"/>
 </div>
 
 <div align="center">
-  <sub>Built systems that run in production. Not just code that runs locally.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
 </div>
