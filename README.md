@@ -16,7 +16,7 @@
 # User Profile
 Name:        Saad Osama
 Age:         22
-Education:   Computer Science @ Cairo University
+Education:   sudan university of science and technology
 Location:    Giza, Egypt
 Role:        Full-Stack Developer & AI Automation Architect
 Philosophy:  "Minimalist industrial aesthetics. Dark OLED vibes. High-velocity deployments."
